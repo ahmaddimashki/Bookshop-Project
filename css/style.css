@@ -79,13 +79,15 @@ header .container {
   background-color: transparent;
   border: 2px solid #fff;
   padding: 8px 40px;
+}
+
+.banner-text button a {
   color: #fff;
   font-size: 1.1em;
   text-transform: uppercase;
   opacity: 1;
   transition: opacity 1s;
 }
-
 .banner-text button:focus {
   outline: none;
 }
